@@ -1,6 +1,3 @@
-# Deviant Spy
-- - -
-
 ### Deviant Spy is a native advertising (RevContent) spy tool
 
 
