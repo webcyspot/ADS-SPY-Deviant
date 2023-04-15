@@ -4,9 +4,6 @@
 ### Deviant Spy is a native advertising (RevContent) spy tool
 
 
-![Deviant Spy](http://paulpierre.com/img/deviantspy.jpg)
-
-
 built by [http://paulpierre.com](http://paulpierre.com) in 2015
 
 Deviant Spy is a native advertising (RevContent) spy tool I built with my marketing partner. I developed sophisticated scraping bots in PhantomJS and NodeJS that would leverage geo proxies and pretend to be multiple user profiles. I would collect placement IDs of publishers and determine which Widget IDs would be profitable so we could run out own offers. 
@@ -17,7 +14,6 @@ Deviant Spy is a native advertising (RevContent) spy tool I built with my market
 
 This helped us developed a series of profitable campaigns, as well opened the possibility of building additional sophistication to the tool.
 
-Live app and servers no longer maintained.
 
 ### MIT License
 - - -
